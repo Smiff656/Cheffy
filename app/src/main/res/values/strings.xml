@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cheffy380</string>
+    <string name="Ingredients">Select available ingredients</string>
+    <string name="cb1">Pasta</string>
+    <string name="cb2">Butter</string>
+    <string name="cb3">Garlic</string>
+    <string name="cb4">Onions</string>
+    <string name="cb5">Tomato sauce</string>
+    <string name="cb6">Cheese</string>
+    <string name="cb7">Chicken breast</string>
+    <string name="cb8">Whole Chicken</string>
+    <string name="cb9">Steak</string>
+    <string name="c10">Olive Oil</string>
+    <string name="c11">Buns</string>
+    <string name="c12">Ground Beef</string>
+    <string name="B1">Reset</string>
+    <string name="B2">Search</string>
+
+
+
+</resources>
